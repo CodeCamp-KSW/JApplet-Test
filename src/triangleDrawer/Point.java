@@ -13,7 +13,7 @@ public class Point extends JPanel{
 	public Point(int x, int y) {
 		this.x=x;
 		this.y=y;
-		System.out.println("i live");
+		System.out.println("i do live");
 	}
 	
 	

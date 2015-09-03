@@ -6,6 +6,8 @@ public class starter {
 	}
 	starter(){
 		g=new triangleDrawer.GUI();
+		
+		
 	}
 
 }
